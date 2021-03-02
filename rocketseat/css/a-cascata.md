@@ -26,3 +26,6 @@ inline > tag style > tag link
 1000. Inline
 
 ### A regra !important
+* cuidado, evite o uso
+* não é considerada uma boa prática
+* quebra o fluxo natural da cascata
