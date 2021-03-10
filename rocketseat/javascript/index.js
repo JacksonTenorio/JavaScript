@@ -7,6 +7,6 @@
   <title>Document</title>
 </head>
 <body>
-  <script src="./scritpt.js"></script>
+  <script src="./scritpts.js"></script>
 </body>
 </html>
