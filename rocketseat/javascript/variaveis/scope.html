@@ -1,11 +1,13 @@
 <script>
-// var é global e, também local
+// const e let são locais e só funcionam no escopo onde foi criada
 
-console.log('> existe x antes do bloco?', x)
+let y = 1;
+
+console.log('> existe y antes?', y)
 {
-    var x = 0
+    let y = 0
 } 
 
-console.log('> existe x depois do bloco?', x)
+console.log('> existe y depois do bloco?', y)
 
 </script>
